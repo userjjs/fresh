@@ -850,8 +850,8 @@ pre code {
   color: #b5e3ff;
   text-transform: uppercase;
   text-decoration: none;
-  font-size: 3rem;
-  font-weight: 700;
+  font-size: 2rem;
+  font-weight: 500;
 }
 
 .sidebar-social {
@@ -897,11 +897,11 @@ pre code {
   padding: 1rem;
 }
 .main-article .title-article, .main-article .page-title, .main-article .post-title, .page-article .title-article, .page-article .page-title, .page-article .post-title, .post .title-article, .post .page-title, .post .post-title {
-  font-family: 'Finger Paint', cursive;
+  font-family: 'arial', Bold;
   margin-bottom: 0;
   -webkit-transition: all .3s;
   transition: all .3s;
-  color: #15F3A8;
+  color: #180d56;
   font-size: 2.5rem;
   margin-top: 0.67rem;
 }
