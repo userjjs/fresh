@@ -910,10 +910,10 @@ pre code {
   text-decoration: none;
 }
 .main-article .post-date span, .main-article .page-date span, .page-article .post-date span, .page-article .page-date span, .post .post-date span, .post .page-date span {
-  font-size: 0.8rem;
+  font-size: 1.1rem;
   text-transform: uppercase;
   font-family: monospace;
-  color: lightgreen;
+  color: blue;
 }
 .main-article .more, .page-article .more, .post .more {
   text-decoration: none;
