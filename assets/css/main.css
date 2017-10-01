@@ -810,11 +810,11 @@ pre code {
   list-style: none;
 }
 .sidebar-menu .menu-links {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   text-transform: uppercase;
   display: block;
   text-decoration: none;
-  padding: 1rem 1.3rem;
+  padding: 0.7rem 2rem;
   color: #fff;
   font-weight: 700;
   -webkit-transition: all .35s;
@@ -910,7 +910,7 @@ pre code {
   text-decoration: none;
 }
 .main-article .post-date span, .main-article .page-date span, .page-article .post-date span, .page-article .page-date span, .post .post-date span, .post .page-date span {
-  font-size: 1.1rem;
+  font-size: 1rem;
   text-transform: uppercase;
   font-family: monospace;
   color: blue;
